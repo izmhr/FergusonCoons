@@ -4,3 +4,5 @@
 
 https://t-pot.com/program/2_3rdcurve/index.html
 http://maverickproj.web.fc2.com/pg91.html
+
+![](Docs/image.gif)
